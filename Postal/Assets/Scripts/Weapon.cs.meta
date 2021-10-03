@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8c97aea8a3b07dc4fbc27d05de367099
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - baseMat: {fileID: 2100000, guid: e3bfb6091aa5d70468f03af75d42fb96, type: 2}
+  - selectedMat: {fileID: 2100000, guid: a6db2eea369875c48b10821f78b7a76c, type: 2}
+  - model: {instanceID: 0}
+  - explodeParticle: {fileID: 3517341286977804283, guid: 4942c4107e577cc41a3064c84938a583, type: 3}
+  - hitParticle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
